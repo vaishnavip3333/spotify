@@ -1,0 +1,605 @@
+[
+  {
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "name": "Arijit Singh",
+    "genres": [
+      "hindi pop",
+      "bollywood",
+      "desi",
+      "bangla pop"
+    ],
+    "popularity": 92,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "2oSONSC9zQ4UonDKnLqksx",
+    "name": "Atif Aslam",
+    "genres": [
+      "bollywood",
+      "hindi pop",
+      "desi",
+      "sufi",
+      "qawwali"
+    ],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "4zCH9qm4R2DADamUHMCa6O",
+    "name": "Anirudh Ravichander",
+    "genres": [
+      "tamil pop",
+      "kollywood",
+      "tamil dance",
+      "tollywood",
+      "tamil hip hop",
+      "telugu pop"
+    ],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "3gBKY0y3dFFVRqicLnVZYz",
+    "name": "Alka Yagnik",
+    "genres": [
+      "bollywood",
+      "hindi pop",
+      "desi"
+    ],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "1mYsTxnqsietFxj1OgoGbG",
+    "name": "A.R. Rahman",
+    "genres": [
+      "tamil pop",
+      "kollywood",
+      "sufi",
+      "bollywood",
+      "hindi pop",
+      "desi"
+    ],
+    "popularity": 83,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "name": "Ariana Grande",
+    "genres": [
+      "pop"
+    ],
+    "popularity": 93,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "6DARBhWbfcS9E4yJzcliqQ",
+    "name": "Karan Aujla",
+    "genres": [
+      "punjabi pop",
+      "punjabi hip hop",
+      "bhangra",
+      "desi hip hop",
+      "desi"
+    ],
+    "popularity": 81,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "2fMqTqiTxUDlmcOEPaQSsx",
+    "name": "Amitabh Bhattacharya",
+    "genres": [
+      "bollywood",
+      "hindi pop",
+      "desi"
+    ],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "2R21vXR83lH98kGeO99Y66",
+    "name": "Anuel AA",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino",
+      "latin"
+    ],
+    "popularity": 89,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "name": "Arctic Monkeys",
+    "genres": [
+      "indie",
+      "garage rock"
+    ],
+    "popularity": 88,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0z4gvV4rjIZ9wHck67ucSV",
+    "name": "Akon",
+    "genres": [],
+    "popularity": 85,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7vk5e3vY1uw9plTHJAMwjN",
+    "name": "Alan Walker",
+    "genres": [],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0fTSzq9jAh4c36UVb4V7CB",
+    "name": "Alex Warren",
+    "genres": [],
+    "popularity": 88,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+    "name": "Ed Sheeran",
+    "genres": [
+      "soft pop"
+    ],
+    "popularity": 91,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "13ubrt8QOOCPljQ2FL1Kca",
+    "name": "A$AP Rocky",
+    "genres": [
+      "rap"
+    ],
+    "popularity": 86,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "name": "Eminem",
+    "genres": [
+      "rap",
+      "hip hop"
+    ],
+    "popularity": 92,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "5t5FqBwTcgKTaWmfEbwQY9",
+    "name": "ENHYPEN",
+    "genres": [
+      "k-pop"
+    ],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7qG3b048QCHVRO5Pv1T5lw",
+    "name": "Enrique Iglesias",
+    "genres": [
+      "latin pop",
+      "latin"
+    ],
+    "popularity": 81,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "2ae6PxICSOZHvjqiCcgon8",
+    "name": "S. P. Balasubrahmanyam",
+    "genres": [
+      "telugu pop",
+      "kannada pop",
+      "tamil pop",
+      "devotional",
+      "tollywood",
+      "sandalwood",
+      "kollywood"
+    ],
+    "popularity": 81,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "name": "SZA",
+    "genres": [
+      "r&b"
+    ],
+    "popularity": 93,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "3PhoLpVuITZKcymswpck5b",
+    "name": "Elton John",
+    "genres": [],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+    "name": "Madonna",
+    "genres": [],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "67hb7towEyKvt5Z8Bx306c",
+    "name": "Empire Of The Sun",
+    "genres": [],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0X2BH1fck6amBIoJhDVmmJ",
+    "name": "Ellie Goulding",
+    "genres": [],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "name": "Billie Eilish",
+    "genres": [],
+    "popularity": 95,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "5XJDexmWFLWOkjOEjOVX3e",
+    "name": "Eladio Carrion",
+    "genres": [
+      "trap latino",
+      "urbano latino",
+      "trap"
+    ],
+    "popularity": 83,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "4az97MtWmBQ5Db3GfDh9j9",
+    "name": "Morad",
+    "genres": [],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "15UsOTVnJzReFVN1VCnxy4",
+    "name": "XXXTENTACION",
+    "genres": [
+      "emo rap"
+    ],
+    "popularity": 87,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "name": "Future",
+    "genres": [
+      "rap"
+    ],
+    "popularity": 92,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "53XhwfbYqKCa1cC15pYq2q",
+    "name": "Imagine Dragons",
+    "genres": [],
+    "popularity": 89,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "4E2rKHVDssGJm2SCDOMMJB",
+    "name": "Doechii",
+    "genres": [],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "6PH3FLQAxtqYy46Zv08bpV",
+    "name": "Ivan Cornejo",
+    "genres": [
+      "sad sierre\u00f1o",
+      "corridos tumbados",
+      "corrido",
+      "m\u00fasica mexicana",
+      "sierre\u00f1o"
+    ],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "36iDrP3UnCxsSH9LuSdkDj",
+    "name": "Masoom Sharma",
+    "genres": [
+      "haryanvi pop"
+    ],
+    "popularity": 82,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "4oUHIQIBe0LHzYfvXNW4QM",
+    "name": "Morgan Wallen",
+    "genres": [
+      "country"
+    ],
+    "popularity": 96,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "name": "Bruno Mars",
+    "genres": [],
+    "popularity": 93,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "04gDigrS5kc9YWfZHwBETP",
+    "name": "Maroon 5",
+    "genres": [
+      "pop"
+    ],
+    "popularity": 88,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+    "name": "Metro Boomin",
+    "genres": [],
+    "popularity": 88,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7n2wHs1TKAczGzO7Dd2rGr",
+    "name": "Shawn Mendes",
+    "genres": [],
+    "popularity": 84,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "7iK8PXO48WeuP03g8YR51W",
+    "name": "Myke Towers",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "popularity": 89,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "1HY2Jd0NmPuamShAr6KMms",
+    "name": "Lady Gaga",
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "popularity": 93,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "1r4hJ1h58CWwUQe3MxPuau",
+    "name": "Maluma",
+    "genres": [
+      "reggaeton",
+      "latin",
+      "urbano latino"
+    ],
+    "popularity": 88,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "0Q8NcsJwoCbZOHHW63su5S",
+    "name": "Mora",
+    "genres": [
+      "urbano latino",
+      "trap latino",
+      "reggaeton"
+    ],
+    "popularity": 87,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "5YGY8feqx7naU7z4HrwZM6",
+    "name": "Miley Cyrus",
+    "genres": [],
+    "popularity": 86,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "2sSGPbdZJkaSE2AbcGOACx",
+    "name": "The Mar\u00edas",
+    "genres": [
+      "bedroom pop"
+    ],
+    "popularity": 86,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  },
+  {
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "name": "The Weeknd",
+    "genres": [],
+    "popularity": 97,
+    "extraction_datetime": "2025-06-18T15:31:55.758116",
+    "source": "Spotify API v1",
+    "extractor": "spotipy",
+    "data_version": "1.0",
+    "timezone": "IST"
+  }
+]
