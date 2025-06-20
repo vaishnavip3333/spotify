@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: spotify
+    schema: spotify_data
+    description: This source contains data from the Spotify API, including albums,artist and tracks.
+    tables:
+      - name: albums
+        description: contains information about albums, including their release date, type, and associated artists.
+      - name: artists
+        description: contains information about artists, including their name, popularity.
+      - name: tracks
+        description: contains information about tracks, including their name, popularity, and associated album and artist.  
+    
