@@ -33,7 +33,7 @@ deduplicated_src AS (
     SELECT *
     FROM (
         SELECT *,
-               ROW_NUMBER() OVER (PARTITION BY id ORDER BY id DESC) AS row_num -- Removed effective_date
+               ROW_NUMBER() OVER (PARTITION BY id ORDER BY id DESC) AS row_num 
         FROM src_data
     ) subquery
     WHERE row_num = 1
